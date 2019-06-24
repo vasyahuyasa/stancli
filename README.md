@@ -2,6 +2,10 @@
 
 Utility for send arbitrary data to nats streaming server from command-line.
 
+#### Packages
+
+[![stancli](https://img.shields.io/aur/version/stancli.svg?label=stancli)](https://aur.archlinux.org/packages/stancli/)
+
 ## Installation
 
 ```shell
