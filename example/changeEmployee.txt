@@ -1,0 +1,16 @@
+{
+    "MessageID": "ashdg3h432-fdsfsdfs",
+    "From": "test",
+    "To": "*",
+    "ReplyTo": "",
+    "TimeToLive": 0,
+    "SentAt": 1528903286,
+    "Subject": "event.ChangeEmployee",
+    "CorrelationId": "1233423",
+    "Retry": 0,
+    "Body": {
+        "id": 9999,
+        "name": "Иван Иванов",
+        "phone": "80000000000"
+    }
+}
