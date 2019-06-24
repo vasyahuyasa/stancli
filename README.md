@@ -1,6 +1,6 @@
 # Stancli
 
-Utility for send arbitrary data to nats streaming from command-line.
+Utility for send arbitrary data to nats streaming server from command-line.
 
 ## Installation
 
